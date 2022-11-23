@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WHITELOTUS0 OR SIBO GLORRY
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming(Python,Java,C,Dart,JavaScript,TypeScript,HTML,CSS, and multiple Databases(mongoDB, MySQL,Postgres))
 - 🌱 I’m currently learning Software Engineering at Makerere University
 - 💞️ I’m looking to collaborate on any software development project
 - 📫 How to reach me ...
